@@ -1,0 +1,104 @@
+.Legend-Register-Card {
+    color: #3d4045;
+    font-size: 18px;
+}
+
+
+.Img-Register-DataView {
+    height: 30px;
+}
+
+
+.Button-Register-Card {
+    color: #ffcc00;
+    width: 7vh;
+    height: 2vw;
+}
+
+
+.Span-Register {
+    text-align: center;
+    font-size: 12px;
+    color: red;
+}
+
+
+/*Definindo o tamanho do card onde teremos login e senha*/
+.Register-Box {
+    width: 500px;
+    min-height: 300px;
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    align-self: center;
+    background-color: transparent;
+    box-shadow: 1px 1px 30px #ffcc00;
+    border-color: gray;
+}
+
+
+.Register-Box:hover {
+    background-color: #ffcc00;
+    box-shadow: 1px 1px 30px #ffcc00;
+    transition: 1s all;
+}
+
+
+.Div-Register {
+    justify-content: center;
+    display: flex;
+    align-self: center
+}
+
+
+
+
+/*Definindo o a formatação do que é fora da tela de login ===========================================================*/
+
+.layout-page-register-img-D7PAR {
+    height: 60px;
+    margin-top: 20px;
+}
+
+
+.layout-page-register-h1-1 {
+    color: #ffcc00;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+
+.layout-page-register-h1-2 {
+    color: #ffe680;
+    font-size: 15px;
+}
+
+
+.layout-page-register-h2 {
+    color: #ffeb99;
+    font-size: 10px;
+}
+
+
+/*.layout-page-login-hr {*/
+/*    color: #ffcc00;*/
+/*    margin-left: 0.1%;*/
+/*    margin-right: 0.1%;*/
+/*}*/
+
+
+.layout-page-register-blockquote {
+    color: #ffcc00;
+    font-size: 15px;
+}
+
+
+.Container-Register {
+    font-family:"Avenir Next Condensed";
+    background-image: url("DataView_Capa.png");
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    /*width: 1536px;*/
+    /*height: 1024px;*/
+}
